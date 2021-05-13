@@ -11,4 +11,4 @@ render() {
     )
 }
 }
-export default SearchBar
+export default SearchBar;
