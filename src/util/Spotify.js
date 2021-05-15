@@ -1,7 +1,7 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
-const clientId = '11ebd54b68ea4bc5af182e5f5171a9c2';
-const redirectUri = 'http://jamit.surge.sh/';
+const clientId = '11ebd54b68ea4bc5af182e5f51711--2';  //invalid, replace with your uniq client ID
+const redirectUri = 'http://jamit.surge.sh//callback/';
 let accessToken;
 export const Spotify = {
   getAccessToken() {
